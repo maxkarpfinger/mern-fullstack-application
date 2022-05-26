@@ -1,5 +1,7 @@
 # mern-fullstack-application
 
+Website which allows users to post Posts. \
+
 Node.js and express as backend, React as Frontend. \
 Also uses redux and axios. \
 Supports CRUD operations. \
